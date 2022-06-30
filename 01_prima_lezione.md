@@ -28,21 +28,19 @@
 
 <br />
 
-|  			     |			   						
-|----------------------------|
-| Io ho una macchina verde   |    
-| Io ho due case gialle		 |      
-| Io ho tre cani bianchi	 |      	
-| Io ho i capelli neri		 |          
+
+> - Io ho una macchina verde <br />
+> - Io ho due case gialle <br />		     
+> - Io ho tre cani bianchi <br />     	
+> - Io ho i capelli neri <br />	         
 
 >with  a "to be" meaning
 
-|  			     |			   						
-|----------------------------|
-| Io ho fame   				|    
-| Io ho sete				 |      
-| Io ho sonno				 |      	
-| Io ho caldo				 |    
+
+> - Io ho fame <br />  
+> - Io ho sete <br />			      
+> - Io ho sonno <br />				    	
+> - Io ho caldo <br />			    
 
 <br />
 <br />
