@@ -47,12 +47,12 @@
 
 |          |SCRIVERE  |MANGIARE   |LEGGERE     |          
 |----------|-------   |-----------|------------| 
-|**Io**        |scrivo     |mangio    | leggo      |
-|**Tu**        |scrivi     |mangi     | leggi      |
-|**Lui/Lei**   |scrive     |mangia    | legge      |
-|**Noi**       |scriviamo  |mangiamo  | leggiamo   |
-|**Voi**       |scriete    |mangiate  | leggete    |
-|**Loro**  	   |scrivono   |mangiano  | leggono    |
+|**Io**        |scrivo     |mangio    |leggo    |
+|**Tu**        |scrivi     |mangi     |leggi    |
+|**Lui/Lei**   |scrive     |mangia    |legge    |
+|**Noi**       |scriviamo  |mangiamo  |leggiamo |
+|**Voi**       |scriete    |mangiate  |leggete  |
+|**Loro**  	   |scrivono   |mangiano  |leggono  |
 
 <br />
 
