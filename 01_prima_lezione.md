@@ -45,7 +45,7 @@
 > - Io sono americano  /  Io sono italiano	<br />		
 > - Io sono felice    /  Io sono triste <br />   			
 > - Io sono vecchio   / Io sono giovane	<br />		
-> - Io sono biondo    / Io sono moro <br />
+> - Io sono magro  / Io sono grasso <br />
 > - Io sono veloce   / Io sono lento <br />
 > - Io sono alto   / Io sono basso <br />	
 
@@ -76,10 +76,16 @@ Traduci in italiano:
 
 <br />
 
+l'h non si pronuncia.
+
+<br />
+
 > - Io ho una macchina verde <br />
 > - Io ho due case gialle <br />		     
 > - Io ho tre cani bianchi <br />     	
-> - Io ho i capelli neri <br />	         
+> - Io ho i capelli neri <br />
+> - Io ho quattro cani grassi <br />
+> - Io ho cinque computer lenti <br  />	         
 
 >with  a "to be" meaning
 
@@ -99,7 +105,7 @@ Traduci in italiano:
 
 > - I have a white car <br />	
 > - You are 10 years old <br />	
-> - He am cold <br />	
+> - He is cold <br />	
 > - She has long hair <br />	
 > - I have an old tv <br />	
 > - You are right <br />	
@@ -120,4 +126,9 @@ Traduci in italiano:
 |**Loro**  	   |scrivono   |mangiano  |leggono |prendono   |
 
 <br />
+<br />
+
+### Presentazioni
+
+Piacere, mi chiamo... 
 
