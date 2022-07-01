@@ -1,6 +1,19 @@
 # Prima Lezione 
 
+<br />
 
+### Vocali
+
+||||||
+|-|-|-|-|-|
+|A|E|I|O|U|
+
+> èrba - élefante <br />
+> pòsta - cólore <br />
+
+<br />
+
+### Numeri
 
 | | | |**Numeri cardinali** |  | |**Numeri ordinali**|  |
 |-|-|-|-|-|-|-|-|
@@ -19,33 +32,49 @@
 <br />
 
 ### Verbo ESSERE
-|||||||
-|-|-|-|-|-|-
-|**Io** |sono &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ||**Noi** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | siamo	||
-|**Tu**       |sei    ||  **Voi**        |	siete		|
-|**Lui/Lei** &emsp;  |è     ||  **Loro**  &emsp;  &emsp;    |		sono	|
+|Singolare||||Plurale|||
+|-|-|-|-|-|-|-|
+|**Io**                 |sono          |||**Noi**                  |siamo	||
+|**Tu**                 |sei           |||**Voi**                  |siete	||
+|**Lui/Lei**            |è             |||**Loro**                 |sono	||
+
 
 <br />
 
       
-> - Io sono ameicano  /  Io sono italiano	<br />		
+> - Io sono americano  /  Io sono italiano	<br />		
 > - Io sono felice    /  Io sono triste <br />   			
 > - Io sono vecchio   / Io sono giovane	<br />		
 > - Io sono biondo    / Io sono moro <br />
-> - Io sono veloce   / Io sono lento <br />	
+> - Io sono veloce   / Io sono lento <br />
+> - Io sono alto   / Io sono basso <br />	
+
+<br />
+
+--------------------
+Traduci in italiano:
+
+---------
+
+> - She is tall <br />	
+> - He is slow <br />	
+> - I am happy <br />	
+> - Giovanni is Italian <br />	
+> - You are sad <br />	
+> - She is young <br />	
+> - The cat is black <br />	
+> - The house is white <br />	
 
 <br />
 
 ### Verbo AVERE  (to have and to hold)
-|||| |||
-|----------|-------|-|-------------|--------------|-----------------|
-|**Io** |ho &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ||**Noi** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | abbiamo	||
-|**Tu**       |hai   ||  **Voi**        |avete		|
-|**Lui/Lei** &emsp;  |ha     ||  **Loro**  &emsp;  &emsp;    |hanno	|
-
+|Singolare||||Plurale|||
+|-|-|-|-|-|-|-|
+|**Io**                 |ho            |||**Noi**                  |abbiamo	||
+|**Tu**                 |hai           |||**Voi**                  |avete	||
+|**Lui/Lei**            |ha            |||**Loro**                 |hanno	||
 
 <br />
-
 
 > - Io ho una macchina verde <br />
 > - Io ho due case gialle <br />		     
@@ -54,32 +83,41 @@
 
 >with  a "to be" meaning
 
-
 > - Io ho fame <br />  
 > - Io ho sete <br />			      
 > - Io ho sonno <br />				    	
-> - Io ho caldo <br />			    
+> - Io ho caldo <br />	
+> - Io ho nove anni <br />
+> - Io ho ragione <br/>		    
+
+<br />
+
+-------------------
+Traduci in italiano:
+
+----
+
+> - I have a white car <br />	
+> - You are 10 years old <br />	
+> - He am cold <br />	
+> - She has long hair <br />	
+> - I have an old tv <br />	
+> - You are right <br />	
+> - I have four cats <br />
+> - She is hungry <br />	
+
 
 <br />
 <br />
 
-|          |SCRIVERE  |MANGIARE   |LEGGERE     |          
-|----------|-------   |-----------|------------| 
-|**Io**        |scrivo     |mangio    |leggo    |
-|**Tu**        |scrivi     |mangi     |leggi    |
-|**Lui/Lei**   |scrive     |mangia    |legge    |
-|**Noi**       |scriviamo  |mangiamo  |leggiamo |
-|**Voi**       |scriete    |mangiate  |leggete  |
-|**Loro**  	   |scrivono   |mangiano  |leggono  |
+|          |SCRIVERE  |MANGIARE   |LEGGERE     |PRENDERE   |         
+|----------|----------|-----------|------------|-----------| 
+|**Io**        |scrivo     |mangio    |leggo   |prendo     |
+|**Tu**        |scrivi     |mangi     |leggi   |prendi     |
+|**Lui/Lei**   |scrive     |mangia    |legge   |prende     |
+|**Noi**       |scriviamo  |mangiamo  |leggiamo|prendiamo  |
+|**Voi**       |scriete    |mangiate  |leggete |prendete   |
+|**Loro**  	   |scrivono   |mangiano  |leggono |prendono   |
 
 <br />
 
-Let's translate some phrases:
-
-> - The cat is black <br />	
-> - The house is white <br />	
-> - She is tall <br />	
-> - He is slow <br />	
-> - I am happy <br />	
-> - Giovanni is Italian <br />	
-> - You are sad <br />	
