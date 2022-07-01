@@ -130,5 +130,5 @@ Traduci in italiano:
 
 ### Presentazioni
 
-Piacere, mi chiamo... 
+> Piacere, mi chiamo... 
 
