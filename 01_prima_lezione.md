@@ -1,5 +1,23 @@
 # Prima Lezione 
 
+
+
+| | | |**Numeri cardinali** |  | |**Numeri ordinali**|  |
+|-|-|-|-|-|-|-|-|
+|0    |||zero |        ||        |  |
+|1    |||uno |         ||primo   |  |
+|2    |||due |         ||secondo |  |
+|3    |||tre |         ||terzo   |  |
+|4    |||quattro |     ||quarto  |  |
+|5    |||cinque |      ||quinto  |  |
+|6    |||sei |         ||sesto   |  |
+|7    |||sette |       ||settimo |  |
+|8    |||otto |        ||ottavo  |  |
+|9    |||nove |        ||nono    |  |
+|10   |||dieci |       ||decimo  |  |
+
+<br />
+
 ### Verbo ESSERE
 |||||||
 |-|-|-|-|-|-
