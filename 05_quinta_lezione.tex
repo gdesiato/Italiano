@@ -7,6 +7,16 @@
 \usepackage{hyperref}
 \usepackage{multicol}
 \usepackage{multirow}
+\usepackage{fancyhdr}
+
+
+\renewcommand\footrulewidth{0.1pt}
+\pagestyle{fancy}
+\rfoot{Page \thepage}
+\fancyfoot[C]{%
+  \begin{tabular}{c}
+    {Quinta lezione} \\
+  \end{tabular}}
 
 
 \newcommand{\myCode}[1]{\colorbox{gray!30}{#1}}
